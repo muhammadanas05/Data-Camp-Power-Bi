@@ -15,7 +15,7 @@ The repository is organized into the following course-specific folders:
 2. **DAX**  
    - This course covers the basics to advanced applications of **Data Analysis Expressions (DAX)**, which is used for creating powerful calculations and expressions in Power BI.
 
-3. *Data Visualization in Power BI**  
+3. **Data Visualization in Power BI**  
    - Learn how to create stunning and interactive visualizations using Power BI, from basic charts to advanced visual techniques and custom visuals.
 
 4. **Data Preparation in Power BI**  
